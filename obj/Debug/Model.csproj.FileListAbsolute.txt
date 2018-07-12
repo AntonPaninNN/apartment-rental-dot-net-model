@@ -1,0 +1,4 @@
+C:\Users\1\Documents\ANGULAR\DOT_NET\Model\bin\Debug\Model.dll
+C:\Users\1\Documents\ANGULAR\DOT_NET\Model\bin\Debug\Model.pdb
+C:\Users\1\Documents\ANGULAR\DOT_NET\Model\obj\Debug\Model.dll
+C:\Users\1\Documents\ANGULAR\DOT_NET\Model\obj\Debug\Model.pdb
